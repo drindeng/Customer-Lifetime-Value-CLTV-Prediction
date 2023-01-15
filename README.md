@@ -1,4 +1,4 @@
-# Customer-Lifetime-Value-CLTV-Prediction
+# Predicting customer lifetime value using Turkish market sales dataset
 
 ![image](https://user-images.githubusercontent.com/106476037/201517109-e64f7b20-4ace-47ff-b48b-a73d41fa06ff.png)
 
